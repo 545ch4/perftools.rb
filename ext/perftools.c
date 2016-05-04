@@ -1,8 +1,8 @@
+#include <ruby.h>
+
 #ifndef _GNU_SOURCE
 #define _GNU_SOURCE
 #endif
-
-#include <ruby.h>
 
 #ifndef _XOPEN_SOURCE
 #define _XOPEN_SOURCE 600
